@@ -1,1 +1,1 @@
-simple regitration form using react,nodejs,mongodb
+simple registration form using react,nodejs,mongodb
